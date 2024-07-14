@@ -1,0 +1,1 @@
+Esse é um programa que calcu-la e devolve a área de um triângulo para o usuário utilizando os valores da base e altura do triângulo.
