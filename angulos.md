@@ -1,0 +1,1 @@
+Devolver o valor do terceiro angulo quando receber o input de dois outros angulos.
